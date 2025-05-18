@@ -31,14 +31,12 @@ Oyunu başlatın:
 
 ##  Oyun Görselleri
 
-Oyunun oynanışından bazı ekran görüntüleri:
-
 ![Oyun Başlangıcı](./images/1.jpg)  
-*Oyun başlangıç ekranı*
+
 
 ![Oyun Anı](./images/2.jpg)  
-*Oyuncunun düşmanlardan kaçtığı an*
+
 
 ![Oyun Bitti](./images/3.jpg)  
-*Çarpışma sonrası oyun bitiş ekranı*
+
 
