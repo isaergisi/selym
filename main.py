@@ -211,8 +211,18 @@ class Ball(Object):
             self.rect.x = -self.rect.width
             self.passed = False
 
-def get_background(name=None):
-    return [], None
+def get_background(name="Blue.png"):
+    image = pygame.image.load(join("assets", "Background", name)).convert()
+    _, _, width, height = image.get_rect()
+    tiles = []
+
+    for i in range(WIDTH // width + 1):
+        for j in range(HEIGHT // height + 1):
+            pos = (i * width, j * height)
+            tiles.append(pos)
+
+    return tiles, image
+
 
 def draw(window, background, bg_image, player, objects, collectibles, balls):
     if bg_image:
@@ -330,7 +340,7 @@ def main(window):
         else:
             window.fill((0, 0, 0))
             game_over_text = font_game_over.render("GAME OVER", True, (255, 0, 0))
-            retry_text = pygame.font.SysFont(None, 30).render("R'ye basarak yeniden başlayın", True, (255, 255, 255))
+            retry_text = pygame.font.SysFont(None, 30).render("Press R to play again!", True, (255, 255, 255))
             window.blit(game_over_text, (WIDTH//2 - game_over_text.get_width()//2, HEIGHT//2 - 50))
             window.blit(retry_text, (WIDTH//2 - retry_text.get_width()//2, HEIGHT//2 + 10))
             pygame.display.update()
@@ -338,4 +348,4 @@ def main(window):
     pygame.quit()
 
 if __name__ == "__main__":
-    main(window)
+ main(window)
