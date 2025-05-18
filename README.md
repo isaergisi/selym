@@ -27,8 +27,5 @@ cd selym-zipman</code></pre>
     <pre><code>python main.py</code></pre>
   </ol>
 
-  <h2>📄 Lisans</h2>
-  <p>Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için <code>LICENSE</code> dosyasına bakınız.</p>
-
 </body>
 </html>
