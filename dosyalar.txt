@@ -1,0 +1,19 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CE64-770D
+
+ Directory of C:\Users\isa04\2D-Platformer
+
+14.05.2025  23:21    <DIR>          .
+14.05.2025  23:21    <DIR>          ..
+14.05.2025  22:31                19 .breakpoints
+14.05.2025  22:31    <DIR>          .pythonlibs
+14.05.2025  22:31               151 .replit
+14.05.2025  22:31    <DIR>          assets
+14.05.2025  23:21                 0 dosyalar.txt
+14.05.2025  22:31             8.581 main.py
+14.05.2025  22:31               526 poetry.lock
+14.05.2025  22:31               307 pyproject.toml
+14.05.2025  22:31               148 README.md
+14.05.2025  22:31                30 replit.nix
+               8 File(s)          9.762 bytes
+               4 Dir(s)  112.700.203.008 bytes free
