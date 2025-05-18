@@ -29,6 +29,17 @@ Gerekli bağımlılığı yükleyin:
 Oyunu başlatın:
   python main.py
 
+### 📦 Kullanılan Kaynaklar ve Varlıklar (Assets)
+
+Bu projede kullanılan oyun görselleri ve grafik varlıklar aşağıdaki kaynaklardan alınmıştır:
+
+- 🎨 [OpenGameArt.org](https://opengameart.org/)  
+  Ücretsiz ve açık lisanslı oyun varlıkları sunan bir platformdur. Projedeki bazı görseller ve arka planlar buradan alınmıştır.
+
+- 🎮 [Kenney.nl](https://kenney.nl/assets)  
+  Kaliteli 2D/3D oyun varlıkları sağlayan popüler bir kaynaktır. Oyuncu karakteri ve kullanıcı arayüzü öğeleri Kenney tarafından sağlanan varlık paketlerinden alınmıştır.
+
+
 ##  Oyun Görselleri
 
 ![Oyun Başlangıcı](./images/1.jpg)  
