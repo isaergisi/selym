@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Selym - 2D ZIP MAN</title>
+  <title>Selym - 2D ZIP MAN </title>
 </head>
 <body>
   <h1>Selym - 2D Engelden Kaçma Oyunu (Pygame)</h1>
