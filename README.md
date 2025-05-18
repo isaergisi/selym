@@ -1,6 +1,6 @@
 # SELYM-ZIP MAN
 
-**SELYM-ZIP MAN**, Python ve Pygame kullanılarak geliştirilmiş bir 2D engelden kaçma oyunudur. Oyuncu, yukarıdan gelen düşmanlardan kaçarak mümkün olduğunca uzun süre hayatta kalmaya çalışır. Oyun, temel animasyonlar, çarpışma kontrolü ve skor sistemi içerir.
+**SELYM-ZIP MAN**, Python ve Pygame kullanılarak geliştirilmiş bir 2D engelden kaçma oyunudur. Oyuncu, karşısından gelen düşmanlardan kaçarak mümkün olduğunca uzun süre hayatta kalmaya çalışır. Oyun, temel animasyonlar, çarpışma kontrolü ve skor sistemi içerir.
 
 ## 🎮 Oyun Özellikleri
 
